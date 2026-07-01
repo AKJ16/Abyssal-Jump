@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Hazard
+  - Barrier
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: FarBackground
+    uniqueID: 552651923
+    locked: 0
+  - name: MidBackground
+    uniqueID: 3433722163
+    locked: 0
+  - name: CloseBackground
+    uniqueID: 2539260567
+    locked: 0
+  - name: PlayerBackground
+    uniqueID: 1344085919
+    locked: 0
+  - name: Player
+    uniqueID: 555495233
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2839691087
+    locked: 0
+  m_RenderingLayers:
+  - Default

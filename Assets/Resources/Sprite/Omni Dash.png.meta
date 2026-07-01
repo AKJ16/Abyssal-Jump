@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 774c82e17e753f74780aad330310cc3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4628515767079167690
+    second: Omni Dash_0
+  - first:
+      213: 6879578258129253632
+    second: Omni Dash_1
+  - first:
+      213: 4142906767354579216
+    second: Omni Dash_2
+  - first:
+      213: 4611934585207474226
+    second: Omni Dash_3
+  - first:
+      213: 2415622908717018332
+    second: Omni Dash_4
+  - first:
+      213: -6272204744956522060
+    second: Omni Dash_5
+  - first:
+      213: 1218129530079923522
+    second: Omni Dash_6
+  - first:
+      213: -5673650179603913436
+    second: Omni Dash_7
+  - first:
+      213: -569879856938713227
+    second: Omni Dash_8
+  - first:
+      213: 1154939888129485383
+    second: Omni Dash_9
+  - first:
+      213: 1696812083985725254
+    second: Omni Dash_10
+  - first:
+      213: -4358263649943456846
+    second: Omni Dash_11
+  - first:
+      213: -4760860910135838182
+    second: Omni Dash_12
+  - first:
+      213: 2525185804210263844
+    second: Omni Dash_13
+  - first:
+      213: 7897107364680707085
+    second: Omni Dash_14
+  - first:
+      213: -6365162200954898943
+    second: Omni Dash_15
+  - first:
+      213: 6428225475823858634
+    second: Omni Dash_16
+  - first:
+      213: -6644768521498750620
+    second: Omni Dash_17
+  - first:
+      213: -3149502340881084542
+    second: Omni Dash_18
+  - first:
+      213: 5274830296781684810
+    second: Omni Dash_19
+  - first:
+      213: -8055252134719953581
+    second: Omni Dash_20
+  - first:
+      213: -1392996189898767700
+    second: Omni Dash_21
+  - first:
+      213: -8402606422955066287
+    second: Omni Dash_22
+  - first:
+      213: 4911759605547753995
+    second: Omni Dash_23
+  - first:
+      213: -2843815610538414788
+    second: Omni Dash_24
+  - first:
+      213: 569008188548366609
+    second: Omni Dash_25
+  - first:
+      213: 60652074349572090
+    second: Omni Dash_26
+  - first:
+      213: 8325190843283934776
+    second: Omni Dash_27
+  - first:
+      213: 1134365344141244439
+    second: Omni Dash_28
+  - first:
+      213: -3060624962787287543
+    second: Omni Dash_29
+  - first:
+      213: -3285798785596055648
+    second: Omni Dash_30
+  - first:
+      213: 1017888442138908395
+    second: Omni Dash_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Omni Dash_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 277
+        width: 101
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66c06319acb3040800000000000000
+      internalID: 4628515767079167690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 309
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057b48e9fb297f50800000000000000
+      internalID: 6879578258129253632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194bbd31cf8e7930800000000000000
+      internalID: 4142906767354579216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 256
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23841a6f112e00040800000000000000
+      internalID: 4611934585207474226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 225
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcaf59ac34068120800000000000000
+      internalID: 2415622908717018332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 264
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1d85a1407a4f8a0800000000000000
+      internalID: -6272204744956522060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 223
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc3da8a5aa7e010800000000000000
+      internalID: 1218129530079923522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 224
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a0e0d8352341b0800000000000000
+      internalID: -5673650179603913436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 189
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f748a1a416718f0800000000000000
+      internalID: -569879856938713227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 167
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a23e885bb270010800000000000000
+      internalID: 1154939888129485383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 167
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473f8ca9994c8710800000000000000
+      internalID: 1696812083985725254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 199
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b37f9b2d465483c0800000000000000
+      internalID: -4358263649943456846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 190
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a7f42f9360eedb0800000000000000
+      internalID: -4760860910135838182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 204
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427dfc32c134b0320800000000000000
+      internalID: 2525185804210263844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 203
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2ae8be49289d60800000000000000
+      internalID: 7897107364680707085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106f65ac3b66aa7a0800000000000000
+      internalID: -6365162200954898943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 183
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3f8961305a53950800000000000000
+      internalID: 6428225475823858634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 186
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4619e553c3a09c3a0800000000000000
+      internalID: -6644768521498750620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 189
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f8588ce48ba44d0800000000000000
+      internalID: -3149502340881084542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40042a2536f33940800000000000000
+      internalID: 5274830296781684810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3556fcdacdef53090800000000000000
+      internalID: -8055252134719953581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 162
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca28c9f78551bace0800000000000000
+      internalID: -1392996189898767700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 163
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cf85c2af1f36b80800000000000000
+      internalID: -8402606422955066287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 116
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0269ce66531a2440800000000000000
+      internalID: 4911759605547753995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 160
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3da527f4ccb888d0800000000000000
+      internalID: -2843815610538414788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 156
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111c6b8cee585e700800000000000000
+      internalID: 569008188548366609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2f728dba77d000800000000000000
+      internalID: 60652074349572090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 60
+        width: 14
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e064596f4098370800000000000000
+      internalID: 8325190843283934776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 73
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7187d0735431ebf00800000000000000
+      internalID: 1134365344141244439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 69
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ede5eefc97685d0800000000000000
+      internalID: -3060624962787287543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 50
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1325d96f7662d0800000000000000
+      internalID: -3285798785596055648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Omni Dash_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 24
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65aa62524402e00800000000000000
+      internalID: 1017888442138908395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Omni Dash_0: 4628515767079167690
+      Omni Dash_1: 6879578258129253632
+      Omni Dash_10: 1696812083985725254
+      Omni Dash_11: -4358263649943456846
+      Omni Dash_12: -4760860910135838182
+      Omni Dash_13: 2525185804210263844
+      Omni Dash_14: 7897107364680707085
+      Omni Dash_15: -6365162200954898943
+      Omni Dash_16: 6428225475823858634
+      Omni Dash_17: -6644768521498750620
+      Omni Dash_18: -3149502340881084542
+      Omni Dash_19: 5274830296781684810
+      Omni Dash_2: 4142906767354579216
+      Omni Dash_20: -8055252134719953581
+      Omni Dash_21: -1392996189898767700
+      Omni Dash_22: -8402606422955066287
+      Omni Dash_23: 4911759605547753995
+      Omni Dash_24: -2843815610538414788
+      Omni Dash_25: 569008188548366609
+      Omni Dash_26: 60652074349572090
+      Omni Dash_27: 8325190843283934776
+      Omni Dash_28: 1134365344141244439
+      Omni Dash_29: -3060624962787287543
+      Omni Dash_3: 4611934585207474226
+      Omni Dash_30: -3285798785596055648
+      Omni Dash_31: 1017888442138908395
+      Omni Dash_4: 2415622908717018332
+      Omni Dash_5: -6272204744956522060
+      Omni Dash_6: 1218129530079923522
+      Omni Dash_7: -5673650179603913436
+      Omni Dash_8: -569879856938713227
+      Omni Dash_9: 1154939888129485383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
