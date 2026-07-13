@@ -940,6 +940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MainMenu
   firstSceneName: Stage0
   bestTime: {fileID: 1262497672}
+  quitButton: {fileID: 923206738}
   firstSelect: {fileID: 948168585}
 --- !u!1 &295130115
 GameObject:
@@ -2910,12 +2911,17 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8720924619991796291, guid: 73ccb0a4679aa4840ab76e9001587002, type: 3}
   m_PrefabInstance: {fileID: 917684348}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 923206738}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a98125502f715b4b83cfb77b434e436, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Selectable
+--- !u!1 &923206738 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1394897610879068535, guid: 73ccb0a4679aa4840ab76e9001587002, type: 3}
+  m_PrefabInstance: {fileID: 917684348}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &948168585 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1394897610879068535, guid: 73ccb0a4679aa4840ab76e9001587002, type: 3}
@@ -4022,15 +4028,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5404676084668109938, guid: ec3932e88028b0a48b784726ccbe84a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 5404676084668109938, guid: ec3932e88028b0a48b784726ccbe84a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.7
       objectReference: {fileID: 0}
     - target: {fileID: 5404676084668109938, guid: ec3932e88028b0a48b784726ccbe84a5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5404676084668109938, guid: ec3932e88028b0a48b784726ccbe84a5, type: 3}
       propertyPath: m_LocalRotation.w

@@ -9,11 +9,27 @@ public class MainMenuManager : MonoBehaviour
 
     [SerializeField] private string firstSceneName = "Stage0";
     [SerializeField] private TextMeshProUGUI bestTime;
+    [SerializeField] private GameObject quitButton;
     [SerializeField] private GameObject firstSelect;
     private GameObject lastSelected;
 
     // Methods
 
+    private void Awake()
+    {
+        Time.timeScale = 1f;
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.UnmuffleBGM(0f);
+        }
+
+#if UNITY_WEBGL
+        if (quitButton != null)
+        {
+            quitButton.SetActive(false);
+        }
+#endif
+    }
     private void Start()
     {
         LoadMenuHighscore();

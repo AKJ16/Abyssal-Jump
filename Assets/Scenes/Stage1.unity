@@ -5966,6 +5966,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1836057311}
     m_Modifications:
+    - target: {fileID: 959670925947659558, guid: 4a57f0e3964b10f41a49ae5029a02a98, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1197522225399376746, guid: 4a57f0e3964b10f41a49ae5029a02a98, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -6046,9 +6050,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2988516451425286875, guid: 4a57f0e3964b10f41a49ae5029a02a98, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3747334535868900761, guid: 4a57f0e3964b10f41a49ae5029a02a98, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5691153764915424904, guid: 4a57f0e3964b10f41a49ae5029a02a98, type: 3}
       propertyPath: m_Name
       value: Canvas Tutorial
+      objectReference: {fileID: 0}
+    - target: {fileID: 6217561909476043099, guid: 4a57f0e3964b10f41a49ae5029a02a98, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28286,11 +28302,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5257742494168533130, guid: 35de6a4409bca71408692728f429e30a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 48.92
       objectReference: {fileID: 0}
     - target: {fileID: 5257742494168533130, guid: 35de6a4409bca71408692728f429e30a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -72.67
       objectReference: {fileID: 0}
     - target: {fileID: 5257742494168533130, guid: 35de6a4409bca71408692728f429e30a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -28330,6 +28346,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7381426252496157594, guid: 35de6a4409bca71408692728f429e30a, type: 3}
       propertyPath: hasJump
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381426252496157594, guid: 35de6a4409bca71408692728f429e30a, type: 3}
+      propertyPath: hasOmniDash
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381426252496157594, guid: 35de6a4409bca71408692728f429e30a, type: 3}
+      propertyPath: hasDoubleJump
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []

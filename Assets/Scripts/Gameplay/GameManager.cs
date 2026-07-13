@@ -467,6 +467,8 @@ public class GameManager : MonoBehaviour
                 yield return null;
             }
             player.rb.gravityScale = originalGravity;
+
+            yield return new WaitForSeconds(0.1f);
         }
 
         if (state != null)

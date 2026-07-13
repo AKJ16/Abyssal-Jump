@@ -29,10 +29,10 @@ public class AudioManager : MonoBehaviour
             return;
         }
         Instance = this;
-        DontDestroyOnLoad(gameObject); 
+        DontDestroyOnLoad(gameObject);
 
-        maxBGMVolume = bgmSource.volume;
-        maxAmbienceVolume = ambienceSource.volume;
+        maxBGMVolume = bgmSource != null ? bgmSource.volume : 1f;
+        maxAmbienceVolume = ambienceSource != null ? ambienceSource.volume : 1f;
 
         if (bgmSource != null) bgmSource.volume = 0f;
         if (ambienceSource != null) ambienceSource.volume = 0f;
@@ -59,18 +59,28 @@ public class AudioManager : MonoBehaviour
 
     public void MuffleBGM(float duration)
     {
+#if UNITY_WEBGL && !UNITY_EDITOR
+        if (bgmFadeCoroutine != null) StopCoroutine(bgmFadeCoroutine);
+        bgmFadeCoroutine = StartCoroutine(FadeSource(bgmSource, 0.2f, duration, true));
+#else
         if (muffledSnapshot != null)
         {
             muffledSnapshot.TransitionTo(duration);
         }
+#endif
     }
 
     public void UnmuffleBGM(float duration)
     {
+#if UNITY_WEBGL && !UNITY_EDITOR
+        if (bgmFadeCoroutine != null) StopCoroutine(bgmFadeCoroutine);
+        bgmFadeCoroutine = StartCoroutine(FadeSource(bgmSource, 1.0f, duration, true));
+#else
         if (unmuffledSnapshot != null)
         {
             unmuffledSnapshot.TransitionTo(duration);
         }
+#endif
     }
 
     public void PlayBGM(AudioClip clip, float fadeInDuration)

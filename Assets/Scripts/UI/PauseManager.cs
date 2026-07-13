@@ -111,7 +111,6 @@ public class PauseManager : MonoBehaviour
     private IEnumerator PauseSequence()
     {
         isTransitioning = true;
-        Time.timeScale = 0f;
 
         if (AudioManager.Instance != null)
         {
@@ -169,6 +168,7 @@ public class PauseManager : MonoBehaviour
         }
 
         isTransitioning = false;
+        Time.timeScale = 0f;
     }
 
     private IEnumerator ResumeSequence()

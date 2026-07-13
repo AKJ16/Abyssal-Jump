@@ -18704,16 +18704,6 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
-  - first: {x: 118, y: 320, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 5
-      m_TileSpriteIndex: 5
-      m_TileMatrixIndex: 2
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      dummyAlignment: 0
-      m_AllTileFlags: 1073741825
   - first: {x: 135, y: 320, z: 0}
     second:
       serializedVersion: 2
@@ -18866,7 +18856,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 7e3cb4dfd2dc2d9479a792ba10697838, type: 2}
   - m_RefCount: 3
     m_Data: {fileID: 11400000, guid: 6e5d9a742d33fde43af1f7a8547d35d5, type: 2}
-  - m_RefCount: 5
+  - m_RefCount: 4
     m_Data: {fileID: 11400000, guid: 3a76f758ed0ecfd409cde613634f46b3, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 70b70231ac9fd4b47a5837b3113ea6d4, type: 2}
@@ -18893,7 +18883,7 @@ Tilemap:
     m_Data: {fileID: -4255489300767683658, guid: 8b7e2ddc2e06a154c94648b5aefbd57a, type: 3}
   - m_RefCount: 3
     m_Data: {fileID: 3854519087547730619, guid: 8b7e2ddc2e06a154c94648b5aefbd57a, type: 3}
-  - m_RefCount: 5
+  - m_RefCount: 4
     m_Data: {fileID: 998237952344926632, guid: 8b7e2ddc2e06a154c94648b5aefbd57a, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: -2201004185417273631, guid: 8b7e2ddc2e06a154c94648b5aefbd57a, type: 3}
@@ -18946,7 +18936,7 @@ Tilemap:
       e31: 0
       e32: 6.71e-43
       e33: 6.71e-43
-  - m_RefCount: 34
+  - m_RefCount: 33
     m_Data:
       e00: 1
       e01: 0
@@ -18965,7 +18955,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 34
+  - m_RefCount: 33
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -42653,7 +42643,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5481327038490199645, guid: 9a3f58ff1c652dd49802e1966ea753bf, type: 3}
       propertyPath: MaxDistance
-      value: 40
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 5481327038490199645, guid: 9a3f58ff1c652dd49802e1966ea753bf, type: 3}
       propertyPath: MinDistance
